@@ -20,6 +20,6 @@ export const config = defineStackbitConfig({
         publicPath: '/'
     },
     pageLayoutKey: 'type',
-    styleObjectModelName: 'ThemeStyle'
+    //styleObjectModelName: 'ThemeStyle'
 });
 export default config;

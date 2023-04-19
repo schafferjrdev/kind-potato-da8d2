@@ -17,7 +17,7 @@ sections:
         altText: ''
         url: /
         showIcon: true
-        icon: arrowRight
+        icon: mail
         iconPosition: right
         style: secondary
         elementId: ''

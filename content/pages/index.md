@@ -18,7 +18,7 @@ sections:
         url: /
         showIcon: true
         icon: github
-        iconPosition: right
+        iconPosition: left
         style: secondary
         elementId: ''
         type: Button

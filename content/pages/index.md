@@ -19,7 +19,7 @@ sections:
         showIcon: true
         icon: github
         iconPosition: left
-        style: primary
+        style: secondary
         elementId: ''
         type: Button
       - label: See Tutorials
